@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logistics Pro</string>
+    <string name="login_title">Giriş Yap</string>
+    <string name="login_description">Operasyonel verilere erişmek için kimlik bilgilerinizi kullanın.</string>
+    <string name="username_label">Kullanıcı Adı</string>
+    <string name="username_hint">alex.miller</string>
+    <string name="password_label">Şifre</string>
+    <string name="password_hint">••••••••</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+    <string name="login_button">Giriş Yap</string>
+    <string name="biometric_alternative">VEYA ŞUNUNLA DEVAM ET</string>
+    <string name="system_status">System Status</string>
+    <string name="version">Version</string>
+    <string name="security_message">Güvenli lojistik ağı. Erişiminiz izlenmekte ve günlüklenmektedir.</string>
+</resources>
